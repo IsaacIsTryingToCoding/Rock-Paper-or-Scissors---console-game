@@ -61,4 +61,4 @@ const getUserChoice = userInput => {
     console.log(determineWinner(userChoice,computerChoice));
   }
   
-  playGame()
+  playGame();
